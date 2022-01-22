@@ -1,2 +1,2 @@
 # NFT-generator
-(will finish description at the end)
+A machine learning generator used to specifically make nft's.
